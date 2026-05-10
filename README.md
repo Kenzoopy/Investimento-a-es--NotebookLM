@@ -2,6 +2,7 @@
 
 ## Introdução
 Estudo desenvolvido utilizando NotebookLM e engenharia de prompts para análise de estratégias de investimento em ações.
+
 --
 
 ## Objetivos
