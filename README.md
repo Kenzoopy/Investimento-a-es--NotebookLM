@@ -1,8 +1,7 @@
 # Estratégias de Investimento em Ações pelo NotebookLM
 
 ## Introdução
-Este projeto é parte do desafio do DIO utilizando o NotebookLM e tem como objetivo estudar estratégias de investimento em ações.
-
+Estudo desenvolvido utilizando NotebookLM e engenharia de prompts para análise de estratégias de investimento em ações.
 --
 
 ## Objetivos
